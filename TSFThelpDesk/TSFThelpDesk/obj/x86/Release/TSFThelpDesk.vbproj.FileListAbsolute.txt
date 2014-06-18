@@ -1,0 +1,13 @@
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Release\TSFThelpDesk.exe.config
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Release\TSFThelpDesk.exe
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Release\TSFThelpDesk.pdb
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Release\TSFThelpDesk.xml
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.Equipos.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.Form1.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.Resources.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.TipoEquipo.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.Usuario.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.exe
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.xml
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.pdb
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Release\TSFThelpDesk.vbproj.GenerateResource.Cache

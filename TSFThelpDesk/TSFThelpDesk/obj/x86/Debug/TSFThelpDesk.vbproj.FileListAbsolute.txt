@@ -1,0 +1,15 @@
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Debug\TSFThelpDesk.exe.config
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Debug\TSFThelpDesk.exe
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Debug\TSFThelpDesk.pdb
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\bin\Debug\TSFThelpDesk.xml
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.Equipos.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.Form1.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.Resources.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.Usuario.resources
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.exe
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.xml
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.pdb
+C:\tsp\tsftHelpDesk\TSFThelpDesk\TSFThelpDesk\obj\x86\Debug\TSFThelpDesk.TipoEquipo.resources

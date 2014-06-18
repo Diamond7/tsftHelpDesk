@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TSFThelpDesk", "TSFThelpDesk\TSFThelpDesk.vbproj", "{7A46D2BA-8988-4DCA-8639-61A158355489}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "tsftHelpDeskInstall", "..\TSFThelpDeskInstall\tsftHelpDeskInstall\tsftHelpDeskInstall.vdproj", "{7A22770E-6255-4476-ADCA-726E229ACB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A46D2BA-8988-4DCA-8639-61A158355489}.Debug|x86.ActiveCfg = Debug|x86
+		{7A46D2BA-8988-4DCA-8639-61A158355489}.Debug|x86.Build.0 = Debug|x86
+		{7A46D2BA-8988-4DCA-8639-61A158355489}.Release|x86.ActiveCfg = Release|x86
+		{7A46D2BA-8988-4DCA-8639-61A158355489}.Release|x86.Build.0 = Release|x86
+		{7A22770E-6255-4476-ADCA-726E229ACB72}.Debug|x86.ActiveCfg = Debug
+		{7A22770E-6255-4476-ADCA-726E229ACB72}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
